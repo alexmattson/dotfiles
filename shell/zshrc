@@ -40,7 +40,7 @@ export PATH
 ZSH_THEME="alex"
 
 # Z beats cd most of the time
-. ~/z/z.sh
+# . ~/z/z.sh
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -100,4 +100,4 @@ source $ZSH/oh-my-zsh.sh
 . <(npm completion)
 
 # fortune: brew install fortune ponysay
-fortune | ponysay
+# fortune | ponysay

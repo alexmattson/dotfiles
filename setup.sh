@@ -329,7 +329,7 @@ apm install --packages-file $HOME/.atom/packages.list
 ###############################################################################
 
 # Install Zsh settings
-ln -s ~/dotfiles/zsh/themes/nick.zsh-theme $HOME/.oh-my-zsh/themes
+ln -s ~/dotfiles/zsh/themes/alex.zsh-theme $HOME/.oh-my-zsh/themes
 
 
 ###############################################################################
