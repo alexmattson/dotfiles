@@ -20,14 +20,14 @@ So, to recap, the install script will:
 - [Stop words](dict/) lists that I use with Marked 2
 - Git aliases
 - zsh aliases
-- Custom zsh theme with Git and battery status, etc: [nicktheme](zsh/themes/nick.zsh-theme)
+- Custom zsh theme with Git and battery status, etc: [alextheme](zsh/themes/alex.zsh-theme)
 - Sensible [OS X defaults](osx/set-defaults.sh)
 - [Install script](setup.sh)
 
 ## Installation
 
 ```sh
-$ git clone https://github.com/nicksp/dotfiles.git ~/dotfiles
+$ git clone https://github.com/amattson21/dotfiles.git ~/dotfiles
 $ cd ~/dotfiles
 $ chmod +x setup.sh
 $ ./setup.sh
@@ -38,13 +38,13 @@ $ ./setup.sh
 Alternatively, you can install this into `~/dotfiles` remotely without Git using curl:
 
 ```sh
-sh -c "`curl -fsSL https://raw.github.com/nicksp/dotfiles/master/remote-setup.sh`"
+sh -c "`curl -fsSL https://raw.github.com/amattson21/dotfiles/master/remote-setup.sh`"
 ```
 
 Or, using wget:
 
 ```sh
-sh -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/nicksp/dotfiles/master/remote-setup.sh`"
+sh -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/amattson21/dotfiles/master/remote-setup.sh`"
 ```
 
 ## Customize
