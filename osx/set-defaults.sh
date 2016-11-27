@@ -8,9 +8,9 @@
 #
 
 # Set computer name
-COMPUTERNAME="Nick Plekhanov's MBP"
-HOSTNAME='mbp'
-LOCALHOSTNAME='mbp'
+COMPUTERNAME="Alex Mattson's MBPro"
+HOSTNAME='mbpro'
+LOCALHOSTNAME='mbpro'
 
 # Ask for the administrator password upfront
 sudo -v

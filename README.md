@@ -72,8 +72,8 @@ as the `git` user credentials, e.g.:
 
 ```sh
 [user]
-  name = Nick Plekhanov
-  email = nick@example.com
+  name = Alex Mattson
+  email = alex@example.com
 ```
 
 ## OS X Defaults
@@ -81,6 +81,10 @@ as the `git` user credentials, e.g.:
 My favorite part of this repo is the [set-defaults](osx/set-defaults.sh) script for OS X.
 
 ## Resources
+
+This is based off of Nick Plekhanov's Dotfiles:
+
+- [Nick Plekhanov’s dotfiles](https://github.com/nicksp/dotfiles)
 
 I actively watch the following repositories and add the best changes to this repository:
 

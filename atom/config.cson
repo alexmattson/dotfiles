@@ -2,11 +2,11 @@
   autoprefixer: {}
   core:
     disabledPackages: [
-      "react"
+
     ]
     themes: [
       "one-dark-ui"
-      "cobalt2-syntax"
+      "ocean-reef-syntax"
     ]
   editor:
     fontFamily: "Menlo"
@@ -15,7 +15,7 @@
       cr: " "
       eol: " "
       tab: "⇨"
-    preferredLineLength: 120
+    preferredLineLength: 80
     showInvisibles: true
     softWrap: true
     softWrapAtPreferredLineLength: true
