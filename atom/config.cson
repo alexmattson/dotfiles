@@ -2,7 +2,7 @@
   autoprefixer: {}
   core:
     disabledPackages: [
-
+      "react"
     ]
     themes: [
       "one-dark-ui"
